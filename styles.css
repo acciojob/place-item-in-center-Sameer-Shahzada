@@ -4,6 +4,7 @@
 .holder {
 	display:flex;
 	justify-content:center;
+	align-content:center;
 }
 .item-1 {
 	
